@@ -1,0 +1,10 @@
+2024-02-01 09:15:23 - INFO - Candidate 123 started test
+2024-02-01 09:17:10 - ERROR - Question service timeout
+2024-02-01 09:17:20 - ERROR - Question service timeout
+2024-02-01 10:01:05 - INFO - Candidate 123 completed test
+2024-02-02 11:05:45 - ERROR - Proctoring video upload failed
+2024-02-02 11:07:00 - WARNING - Slow network detected
+2024-02-02 12:00:00 - ERROR - Results API failed
+2024-02-03 08:00:00 - INFO - Daily maintenance
+malformed line without expected format
+2024-02-03 09:00:00 - ERROR - Login service unavailable
